@@ -1,0 +1,16 @@
+coordinates:
+  name: Paradigm.Enterprise.Data.SqlServer
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.12:
+    described:
+      sourceLocation:
+        name: paradigm.enterprise
+        namespace: miracledevs
+        provider: github
+        revision: 3126ff8caa53de20bb8c07560bddbc529fbc4be9
+        type: git
+        url: 'https://github.com/miracledevs/paradigm.enterprise/commit/3126ff8caa53de20bb8c07560bddbc529fbc4be9'
+    licensed:
+      declared: MIT+
