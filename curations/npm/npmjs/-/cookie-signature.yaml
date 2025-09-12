@@ -6,3 +6,14 @@ revisions:
   1.0.1:
     licensed:
       declared: MIT
+  1.2.2:
+    described:
+      sourceLocation:
+        name: node-cookie-signature
+        namespace: tj
+        provider: github
+        revision: b7bd4cb9500bfa5e696143f51d61e5f24f7a625d
+        type: git
+        url: 'https://github.com/tj/node-cookie-signature/commit/b7bd4cb9500bfa5e696143f51d61e5f24f7a625d'
+    licensed:
+      declared: MIT
