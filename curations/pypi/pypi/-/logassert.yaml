@@ -1,0 +1,8 @@
+coordinates:
+  name: logassert
+  provider: pypi
+  type: pypi
+revisions:
+  '8.6':
+    licensed:
+      declared: LGPL-3.0 AND LGPL-3.0-only
