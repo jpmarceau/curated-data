@@ -60,6 +60,9 @@ revisions:
   3.53.1:
     licensed:
       declared: MIT
+  3.54.0:
+    licensed:
+      declared: BSD-3-Clause AND MIT
   3.8.0:
     licensed:
       declared: MIT
