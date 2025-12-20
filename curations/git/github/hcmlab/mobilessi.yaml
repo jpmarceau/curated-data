@@ -1,0 +1,9 @@
+coordinates:
+  name: mobilessi
+  namespace: hcmlab
+  provider: github
+  type: git
+revisions:
+  573de30f97a2d9847678132a0d11bb51073235c7:
+    licensed:
+      declared: GPL-3.0-only
