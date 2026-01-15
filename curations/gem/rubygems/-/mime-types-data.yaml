@@ -1,0 +1,8 @@
+coordinates:
+  name: mime-types-data
+  provider: rubygems
+  type: gem
+revisions:
+  3.2026.0113:
+    licensed:
+      declared: MIT
